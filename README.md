@@ -4,4 +4,4 @@ Easy Sample Size Calculation software is a part of the Easy Sample Size Project 
 
 HTML Interface of the software is on Website: <http://www.est.ufmg.br/~thiagords/ESSP.htm>.
 
-We are fascinated by sample size calculation techniques!
+Sample size calculation techniques are fascinated!
